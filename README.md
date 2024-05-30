@@ -1,5 +1,5 @@
-<h1 align="center">Hi😊, I'm 𝗠𝘂𝗵𝗮𝗺𝗺𝗮𝗱 𝗛𝗮𝘀𝘀𝗮𝗻<br><br>
-<p align="center">🎓𝗨𝗻𝗱𝗲𝗿𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁👨‍💻</p></h1>
+<h1 align="center">Hi😊, I'm ᗰᑌᕼᗩᗰᗰᗩᗪ ᕼᗩ𝗦𝗦ᗩᑎ<br><br>
+<p align="center">🎓ᴜɴᴅᴇʀɢʀᴀᴅᴜᴀᴛᴇ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ👨‍💻</p></h1>
 
  ## **💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ✨:**
 - **Database Administrator || C++, C# Proficient || SQL ORACLE**
