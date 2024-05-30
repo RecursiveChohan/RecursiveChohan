@@ -63,8 +63,15 @@
   <a href="https://instagram.com/recursive_chohan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="recursive_chohan" height="30" width="40" />
   </a> 
-  <a href="https://instagram.com/recursive_chohan" target="blank">MUHAMMAD HASSAN</a>
+  <a href="https://instagram.com/recursive_chohan" target="blank">ʍՄɧԹʍʍԹԺ ɧԹՏՏԹՌ</a>
 </p>
+<p align="left">
+  <a href="https://github.com/RecursiveChohan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RecursiveChohan" height="30" width="40" />
+  </a>
+  <a href="https://github.com/RecursiveChohan" target="blank">๓ยђค๓๓ค๔ ђครรคภ</a>
+</p>
+
 
 <br><br>
 ## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
