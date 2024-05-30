@@ -1,7 +1,10 @@
+
+![Web Developer Banner](https://github.com/RecursiveChohan/RecursiveChohan/blob/main/GitHub%20Banner.png)
+
 <h1 align="center">
  
- Hi😊, I'm 𝐌𝐮𝐡𝐚𝐦𝐦𝐚𝐝 𝐇𝐚𝐬𝐬𝐚𝐧
- <br><br>
+ Hi😊, I'm Mυԋαɱɱαԃ Hαʂʂαɳ
+ <br>
 <p align="center">🎓ᴜɴᴅᴇʀɢʀᴀᴅᴜᴀᴛᴇ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ👨‍💻</p></h1>
 
  ## **💫 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆 ✨:**
@@ -101,5 +104,5 @@
   </blockquote>
 <br>          
 </div>
-<div align="right">-𝗥𝗘𝗖𝗨𝗥𝗦𝗜𝗩𝗘 𝗖𝗛𝗢𝗛𝗔𝗡-</div>
+<div align="right">-ƦЄƇƲƦƧƖƔЄ ƇӇƠӇƛƝ-</div>
 
