@@ -11,15 +11,15 @@
 - **Database Administrator || C++, C# Proficient || SQL ORACLE**
 - 📚 Currently Learning **Data Structures and Algorithms**
 - 📫 Reach me at **muhammadhassan8630@gmail.com**
-- ⚡ Fun fact: **I thrive on coding and coffee!**
+- ⚡ Fun fact: **I thrive on Coding and coffee!**
 <br>
 
 🚀 𝑰 𝑺𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒛𝒆 𝒊𝒏 𝒕𝒉𝒆 𝒇𝒐𝒍𝒍𝒐𝒘𝒊𝒏𝒈:
-  - 💻 Database Administration
-  - 👨‍💻 Web Development
-  - 📊 Microsoft Office Suite
-  - 🔍 Data Entry
-  - 📝 Typing
+  - 💻 **Database Administration**
+  - 👨‍💻 **Web Development**
+  - 📊 **Microsoft Office Suite**
+  - 🔍 **Data Entry**
+  - 📝 **Typing**
 
 <br>
 
