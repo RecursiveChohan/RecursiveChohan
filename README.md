@@ -76,21 +76,22 @@
 <br><br>
 ## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RecursiveChohan&show_icons=true&locale=en&theme=dark&hide_border=true" alt="RecursiveChohan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RecursiveChohan&show_icons=true&locale=en&theme=light&hide_border=true" alt="RecursiveChohan" />
 </p>
+
 
 <br>
 
 ## 🔥 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒓𝒆𝒂𝒌:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RecursiveChohan&theme=dark&hide_border=true" alt="RecursiveChohan" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RecursiveChohan&theme=light&hide_border=false" alt="RecursiveChohan" />
 </p>
 
 <br>
 
 ## 🏆 𝑴𝒐𝒔𝒕 𝑼𝒔𝒆𝒅 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RecursiveChohan&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="RecursiveChohan" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RecursiveChohan&show_icons=true&locale=en&layout=compact&theme=light&hide_border=true" alt="RecursiveChohan" />
 </p>
 
 <br>
@@ -101,7 +102,8 @@
 
  ## ʀᴀɴᴅᴏᴍ ᴅᴇᴠ Qᴏᴜᴛᴇꜱ
  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radial)
+  
  ## **ᴅᴇᴠ Qᴜᴏᴛᴇ:**
   <blockquote style="background: linear-gradient(135deg, #f6d365, #fda085); padding: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); color: #fff; font-size: 16px; max-width: 500px; margin: 20px auto;">
     "𝐴𝑛𝑦 𝑓𝑜𝑜𝑙 𝑐𝑎𝑛 𝑤𝑟𝑖𝑡𝑒 𝑐𝑜𝑑𝑒 𝑡ℎ𝑎𝑡 𝑎 𝐶𝑜𝑚𝑝𝑢𝑡𝑒𝑟 𝑐𝑎𝑛 𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑. 𝐺𝑜𝑜𝑑 𝑃𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑒𝑟𝑠 𝑤𝑟𝑖𝑡𝑒 𝐶𝑜𝑑𝑒 𝑡ℎ𝑎𝑡 ℎ𝑢𝑚𝑎𝑛𝑠 𝑐𝑎𝑛 𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑."<br> 
