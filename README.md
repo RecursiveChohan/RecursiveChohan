@@ -1,4 +1,4 @@
-![Web Developer Banner](https://github.com/RecursiveChohan/RecursiveChohan/blob/main/output_image%20(7).jpeg)
+![Web Developer Banner](https://github.com/RecursiveChohan/RecursiveChohan/blob/main/output_image%20(8).jpeg)
 
 
 <h1 align="center">
