@@ -1,6 +1,6 @@
 ![Web Developer Banner](https://github.com/RecursiveChohan/RecursiveChohan/blob/main/Banner.jpg)
 
-
+![Web Developer Banner](https://github.com/RecursiveChohan/RecursiveChohan/blob/main/GitHub%20Banner.png)
 <h1 align="center">
  
  Hi😊, I'm Muhammad Hassan
