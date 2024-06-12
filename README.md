@@ -3,7 +3,7 @@
 
 <h1 align="center">
  
- Hi😊, I'm Mυԋαɱɱαԃ Hαʂʂαɳ
+ Hi😊, I'm Muhammad Hassan
  <br>
 <p align="center">🎓ᴜɴᴅᴇʀɢʀᴀᴅᴜᴀᴛᴇ ᴄᴏᴍᴘᴜᴛᴇʀ ꜱᴄɪᴇɴᴄᴇ ꜱᴛᴜᴅᴇɴᴛ👨‍💻</p></h1>
 
